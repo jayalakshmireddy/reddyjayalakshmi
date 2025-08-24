@@ -1,12 +1,12 @@
 # 👋 Hello World, I'm Jaya Lakshmi Reddy  
 
-🎓 Final-year **B.Tech (ECE) Student**  
+🎓 Final-year **B.Tech in Electronics and Communication Engineering (ECE)**  
 💻 Skilled in **Java (DSA), Python, C, MySQL, HTML & CSS**  
-🚀 Aspiring **Software Developer** passionate about coding & problem-solving  
+🚀 Aspiring **Software Developer** | Passionate about coding, problem-solving & continuous learning  
 
 ---
 
-## 🔧 Skills  
+## 🔧 Technical Skills  
 - **Programming:** Java (Data Structures & Algorithms), Python, C  
 - **Databases:** MySQL  
 - **Web Basics:** HTML, CSS  
@@ -20,7 +20,8 @@
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/reddy-jaya-lakshmi-413168320)  
-- 📧 Email: *your-email@example.com*  
+- 📧 Email: **reddyjayalakshmi851@gmail.com**  
 
 ---
-✨ *“Learning today, building tomorrow.”*  
+
+✨ *“Driven by curiosity, powered by code.”*  
