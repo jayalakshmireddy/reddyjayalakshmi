@@ -14,7 +14,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Jaya Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
+![Jaya Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayalakshmireddy&show_icons=true&theme=tokyonight)  
 
 ---
 
